@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 #### Follow me on my social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/isaque-coelho/)](https://www.linkedin.com/in/kleberandrade/)
