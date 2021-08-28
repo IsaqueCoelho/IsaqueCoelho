@@ -7,10 +7,10 @@
 
 
 <div>
-    <a href="https://github.com/kleberandrade?tab=repositories">
+    <a href="https://github.com/isaquecoelho?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecoelho&layout=compact" width="400" height="200"/>
     </a>
-    <a href="https://github.com/kleberandrade?tab=repositories">
+    <a href="https://github.com/isaquecoelho?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=isaquecoelho&,issues&show_icons=true" width="400" height="200"/>
     </a>
 </div>
