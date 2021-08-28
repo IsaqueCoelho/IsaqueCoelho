@@ -2,8 +2,8 @@
 
 #### Follow me on my social networks:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/isaque-coelho/)](https://www.linkedin.com/in/kleberandrade/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pdjkleber/)](https://www.instagram.com/isaque_dcoelho/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/isaque-coelho/)](https://br.linkedin.com/in/isaque-coelho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=(https://www.instagram.com/isaque_dcoelho/)](https://www.instagram.com/isaque_dcoelho/)
 
 
 <div>
